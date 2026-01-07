@@ -1,0 +1,2 @@
+# licensePlateDetectionAndAlertSystem
+AI and ML 

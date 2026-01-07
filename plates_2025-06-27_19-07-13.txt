@@ -1,0 +1,2 @@
+2025-06-27 19:07:16 | ID: 1 | Plate: DL 7C D 507 | Confidence: 0.927
+2025-06-27 19:07:24 | ID: 4 | Plate: DL 3C B J 1384 | Confidence: 0.929

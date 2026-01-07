@@ -1,0 +1,67 @@
+{
+  "watch_list": [
+    "HR26C06869"
+  ],
+  "alert_contacts": {
+    "HR26C06869": {
+      "contact": "darshanlingiah18@gmail.com",
+      "type": "Email"
+    }
+  },
+  "vehicle_details": {
+    "HR26C06869": {
+      "owner_name": "Ramesh",
+      "vehicle_details": "Odi A3",
+      "owner_phone": "7899694249",
+      "address": "Bangalore-91",
+      "case_details": "Theft at GT Mall",
+      "case_priority": "Medium",
+      "case_date": "2025-08-06",
+      "status": "Active",
+      "date_added": "2025-08-06 22:08:51"
+    }
+  },
+  "detected_plates_data": {
+    "HR26C06869": {
+      "detection_id": "428375d6-78c1-4e3e-aaae-27aa8cbb06cb",
+      "detection_time": "2025-08-06 22:09:45",
+      "video_timestamp": "7.71s",
+      "frame_number": 231,
+      "confidence": "0.84",
+      "location_info": {
+        "name": "Rajajinagar Modi Hospital Signal",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "pincode": "560010",
+        "coordinates": {
+          "latitude": 12.9996,
+          "longitude": 77.5519
+        },
+        "full_address": "Rajajinagar Modi Hospital Signal, Bangalore - 560010, Karnataka, India"
+      },
+      "owner_name": "Ramesh",
+      "vehicle_details": "Odi A3",
+      "owner_phone": "7899694249",
+      "address": "Bangalore-91",
+      "case_details": "Theft at GT Mall",
+      "case_priority": "Medium",
+      "case_date": "2025-08-06",
+      "case_status": "Detected",
+      "alert_sent": "No",
+      "alert_contact": "darshanlingiah18@gmail.com",
+      "alert_type": "Email",
+      "status": "Active"
+    }
+  },
+  "email_config": {
+    "smtp_server": "",
+    "smtp_port": 587,
+    "email": "",
+    "password": ""
+  },
+  "telegram_config": {
+    "bot_token": "",
+    "enabled": false
+  }
+}

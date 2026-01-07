@@ -1,0 +1,14 @@
+{
+  "watch_list": [
+    "DL 3C B J 1384"
+  ],
+  "alert_contacts": {
+    "DL 3C B J 1384": "7899694249"
+  },
+  "email_config": {
+    "smtp_server": "",
+    "smtp_port": 587,
+    "email": "",
+    "password": ""
+  }
+}

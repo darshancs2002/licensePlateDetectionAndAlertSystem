@@ -1,0 +1,138 @@
+{
+  "watch_list": [
+    "R183JF",
+    "DL2CAT4762"
+  ],
+  "alert_contacts": {
+    "DL2CAT4762": {
+      "contact": "darshanlingiah18@gmail.com",
+      "type": "Email"
+    },
+    "R183JF": {
+      "contact": "telegram:1019673274",
+      "type": "Telegram"
+    }
+  },
+  "vehicle_details": {
+    "DL2CAT4762": {
+      "owner_name": "Darshan",
+      "vehicle_details": "Odi A3",
+      "owner_phone": "7899694249",
+      "address": "Bangalore-560091",
+      "case_details": "Theft at GT Mall",
+      "case_priority": "Medium",
+      "case_date": "2025-08-07",
+      "status": "Active",
+      "date_added": "2025-08-07 18:57:43"
+    },
+    "R183JF": {
+      "owner_name": "RAMESH NAI",
+      "vehicle_details": "BENZ",
+      "owner_phone": "7899694249",
+      "address": "BENGALURU 560091",
+      "case_details": "theft at gt mall",
+      "case_priority": "Medium",
+      "case_date": "2025-08-08",
+      "status": "Active",
+      "date_added": "2025-08-08 19:42:27"
+    }
+  },
+  "detected_plates_data": {
+    "DL2CAT4762": {
+      "detection_id": "5f0c2187",
+      "detection_time": "2025-11-07 12:24:19",
+      "video_timestamp": "4.0s",
+      "frame_number": 120,
+      "confidence": "0.900",
+      "owner_name": "Darshan",
+      "vehicle_details": "Odi A3",
+      "owner_phone": "7899694249",
+      "address": "Bangalore-560091",
+      "case_details": "Theft at GT Mall",
+      "case_priority": "Medium",
+      "case_date": "2025-08-07",
+      "case_status": "Detected",
+      "alert_sent": "Yes",
+      "alert_contact": "darshanlingiah18@gmail.com",
+      "alert_type": "Email",
+      "alert_time": "2025-11-07 12:24:19",
+      "status": "Active",
+      "location_info": {
+        "name": "Rajajinagar Modi Hospital Signal",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "pincode": "560010",
+        "coordinates": {
+          "latitude": 12.9996,
+          "longitude": 77.5519
+        },
+        "full_address": "Rajajinagar Modi Hospital Signal, Bangalore - 560010, Karnataka, India"
+      }
+    },
+    "H644LX": {
+      "detection_id": "515e8e2d",
+      "detection_time": "2025-08-06 13:00:58",
+      "video_timestamp": "7.1s",
+      "frame_number": 214,
+      "confidence": "0.745",
+      "owner_name": "Unknown",
+      "vehicle_model": "Not specified",
+      "vehicle_color": "Not specified",
+      "id_proof": "Not specified",
+      "phone_number": "Not specified",
+      "address": "Not specified",
+      "case_details": "No details available",
+      "case_priority": "Medium",
+      "case_date": "Not specified",
+      "case_status": "Detected",
+      "alert_sent": "Yes",
+      "alert_contact": "darshanlingiah18@gmail.com",
+      "alert_type": "Email",
+      "alert_time": "2025-08-06 13:00:58",
+      "status": "Active"
+    },
+    "R183JF": {
+      "detection_id": "4f068dda",
+      "detection_time": "2025-11-07 12:25:33",
+      "video_timestamp": "0.1s",
+      "frame_number": 2,
+      "confidence": "0.760",
+      "owner_name": "RAMESH NAI",
+      "vehicle_details": "BENZ",
+      "owner_phone": "7899694249",
+      "address": "BENGALURU 560091",
+      "case_details": "theft at gt mall",
+      "case_priority": "Medium",
+      "case_date": "2025-08-08",
+      "case_status": "Detected",
+      "alert_sent": "Yes",
+      "alert_contact": "telegram:1019673274",
+      "alert_type": "Telegram",
+      "alert_time": "2025-11-07 12:25:33",
+      "status": "Active",
+      "location_info": {
+        "name": "West Bank Signal",
+        "city": "Miami",
+        "state": "Florida",
+        "country": "USA",
+        "zipcode": "33101",
+        "coordinates": {
+          "latitude": 25.7617,
+          "longitude": -80.1918
+        },
+        "full_address": "West Bank Signal, Miami, FL 33101, USA"
+      }
+    }
+  },
+  "email_config": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "email": "darshanlingiah18@gmail.com",
+    "password": "njfv vokw xjkw znxc"
+  },
+  "telegram_config": {
+    "bot_token": "8441943401:AAHylPY8jiZcOynvqYCCPvpQWo22MxvTNdU",
+    "enabled": false
+  }
+}
